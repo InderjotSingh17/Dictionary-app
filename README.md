@@ -1,4 +1,4 @@
-📖 Dictionary App (Django) - Unlock the Power of Words
+**📖 Dictionary App (Django) - Unlock the Power of Words**
 The Dictionary App is a modern, sleek, and efficient web application designed to bring the world of words right to your fingertips. Built with Django and styled with Bootstrap 5, this app allows users to search for any word in real-time and access its detailed meanings, synonyms, and antonyms. Whether you're a student, writer, or language enthusiast, this app is perfect for expanding your vocabulary and enhancing your understanding of the English language.
 
 Key Features:
@@ -28,6 +28,7 @@ Key Features:
 - **API**: [Free Dictionary API](https://dictionaryapi.dev/)
 - **Templating**: Django Templates (MVT Pattern)
 - **Extras**: Dark Mode Toggle 🌙☀️
+- **Database**: SQL (SQLite or MySQL) - Storing user search queries and their results for a more personalized experience.
 
 - 🤝 Contributing
 Feel free to fork the repo, open issues, or make pull requests. All contributions are appreciated!
